@@ -1,3 +1,4 @@
+---
+dist: focal
 language: python
-script: 
-  - echo hello.py
+script: python3 hello.py
